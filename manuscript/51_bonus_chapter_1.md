@@ -28,311 +28,61 @@ This framework is advanced game theory for organizations. When you understand th
 
 > "The fish who keeps on swimming is the one who doesn't see the net." — Stewart Clegg
 
-These quotes reveal the truth: real power isn't about force—it's about controlling the game itself.
-
 ---
 
 ## 🧶 OPENING STORY: The Three Players
 
-**Same company. Three people. Three completely different power strategies.**
+Same company. Three people. Three completely different power strategies. Alex works seventy-hour weeks, delivers exceptional results, fights every battle, wins most of them through sheer competence and effort. Exhausted. Gets promoted slowly. Respected for work ethic, but constantly fighting for every inch. Maya works forty-five-hour weeks, produces good results but not exceptional ones. But Maya rewrote the performance review criteria to emphasize skills she has. She sits on the committee that decides promotion standards. She doesn't fight battles—she changes the rules so the battles favor her. Gets promoted faster than Alex despite producing less.
 
-**Alex (Circuit 1 Player):** Works 70-hour weeks. Delivers exceptional results. Fights every battle. Wins most of them through sheer competence and effort. Exhausted. Gets promoted slowly. Respected for work ethic, but constantly fighting for every inch.
-
-**Maya (Circuit 2 Player):** Works 45-hour weeks. Good results, not exceptional. But Maya rewrote the performance review criteria to emphasize skills she has. She sits on the committee that decides promotion standards. She doesn't fight battles—she changes the rules so the battles favor her. Gets promoted faster than Alex despite producing less.
-
-**Jordan (Circuit 3 Player):** Works 40-hour weeks. Decent results. But Jordan controls the project management software everyone uses. Jordan decides what metrics are tracked, what data leadership sees, how workflows are structured. Jordan doesn't fight battles or change rules—Jordan controls the infrastructure that determines what battles are even possible. Gets promoted fastest because leadership can't function without the systems Jordan controls.
-
-**Three circuits. Three levels of power. Only one playing the full game.**
+Jordan works forty-hour weeks with decent results. But Jordan controls the project management software everyone uses. Jordan decides what metrics are tracked, what data leadership sees, how workflows are structured. Jordan doesn't fight battles or change rules—Jordan controls the infrastructure that determines what battles are even possible. Gets promoted fastest because leadership can't function without the systems Jordan controls. **Three circuits. Three levels of power. Only one playing the full game.**
 
 ---
 
 ## 💡 CORE LESSON: THE THREE CIRCUITS EXPLAINED
 
-Stewart Clegg, one of the most brutal organizational theorists, identified something most people never see: **power operates on three distinct levels simultaneously.**
+Stewart Clegg, one of the most brutal organizational theorists, identified something most people never see: **power operates on three distinct levels simultaneously.** Most people only see Circuit 1. Smart people learn Circuit 2. Apex players master all three.
 
-Most people only see Circuit 1. Smart people learn Circuit 2. Apex players master all three.
+Circuit 1 is episodic power—the daily battles. This is the most visible level of power. Person A tells Person B to do something. Person B either complies or resists. You see this everywhere: boss delegates task to employee, manager approves or denies a request, leader makes a decision, person persuades another person. **This is what most people think power is.** Circuit 1 is immediate and visible, relationship-based (who has authority over whom), zero-sum (if I win, you lose), exhausting (every win requires effort), and fragile (changes with relationships and positions). Your manager assigns you a project. You negotiate a deadline extension. You convince a colleague to support your idea. You delegate work to a junior employee. These are all Circuit 1 interactions.
 
----
+The Circuit 1 trap catches most people for their entire careers. They compete for positions, authority, approval. They win individual battles through competence, charisma, or effort. **Problem: Circuit 1 power is temporary and exhausting.** You have to keep fighting. Every decision is a battle. Every win requires energy. The moment you lose your position or relationship, your power evaporates. **Circuit 1 players work the hardest and gain the least leverage.**
 
-### CIRCUIT 1: EPISODIC POWER
-*The Daily Battles*
+Circuit 2 is dispositional power—the rules of the game. This is the level where structures, rules, norms, and procedures determine what kinds of power moves are possible. Circuit 2 doesn't fight battles—it determines what battles can be fought and how they can be won. **This level is less visible than Circuit 1.** It shapes what's "normal," "acceptable," "possible." It creates recurring advantage because the rules keep favoring you. It's more efficient: set the rules once, benefit repeatedly. It's institutional, embedded in systems and norms.
 
-**What it is:**
+Circuit 2 manifests in performance review criteria—what gets rewarded? Promotion standards—what qualifies someone? Decision-making processes—who has to approve what? Organizational structure—who reports to whom? Budget allocation rules—who controls resources? **Circuit 2 players don't compete in the game—they shape the game to favor their strengths.** Real-world example: you're not the best coder on the team. But you get yourself on the committee that defines "senior engineer" criteria. You emphasize communication and mentorship (your strengths) and de-emphasize raw technical skill (your weakness). **Result: the rules now favor you.** You get promoted without being the best coder because you changed what "best" means. **Circuit 2 players work smarter, not harder.**
 
-The most visible level of power. A tells B to do something. B either complies or resists. You see this everywhere:
+Circuit 3 is facilitative power—the infrastructure. This is the deepest level. The technology, systems, platforms, and infrastructure that make certain actions possible or impossible. Circuit 3 doesn't set the rules—it determines what can exist. **This is the invisible layer most people never even think about.** Circuit 3 is nearly invisible to most people, determines what's technically possible, creates structural dependency (people need the infrastructure), is extremely powerful (infrastructure shapes everything above it), and is the hardest to build but most durable.
 
-- Boss delegates task to employee
-- Manager approves or denies a request
-- Leader makes a decision
-- Person A persuades Person B
+Examples of Circuit 3 include the software platform everyone uses (controls data, workflow, visibility), the communication tools (controls information flow), the financial systems (controls who can spend what), the knowledge base (controls what information exists and who can access it), and the physical infrastructure (office layout, security systems). **Circuit 3 players control the infrastructure. Whoever controls the infrastructure controls the game at a fundamental level.**
 
-**This is what most people think power is.**
+Real-world example: you're the IT person who implemented the company's project management system. You didn't write the rules, but you control what data is tracked, what reports leadership sees, who has access to what information, and what workflows are possible. **Result: leadership makes decisions based on the infrastructure you control. You shape reality by controlling what's visible and possible.** Circuit 3 players don't fight—they define what fighting looks like.
 
-**Characteristics:**
+The circuits are nested. Each level shapes the one above it. Circuit 3 (infrastructure) shapes what's possible. Circuit 2 (rules) shapes what's acceptable. Circuit 1 (daily battles) determines who wins individual interactions. **Example: promotion decision.** Circuit 1 visible level has Alex and Maya both wanting the promotion. They compete. One wins. Circuit 2 rules level shows that Maya influenced the promotion criteria to favor her skills. The game is rigged before it starts. Circuit 3 infrastructure level reveals that Jordan controls the performance tracking system. Jordan determines what metrics exist, what leadership sees. Jordan shapes what's even measurable.
 
-- Immediate and visible
-- Relationship-based (who has authority over whom)
-- Zero-sum (if I win, you lose)
-- Exhausting (every win requires effort)
-- Fragile (changes with relationships and positions)
+Result: Alex fights hard and might win based on visible performance. Maya fights smart by shaping the rules. Jordan doesn't fight—Jordan controls what performance means by controlling the infrastructure. **The person operating on the deepest circuit has the most power.**
 
-**Examples:**
-
-- Your manager assigns you a project
-- You negotiate a deadline extension
-- You convince a colleague to support your idea
-- You delegate work to a junior employee
-
-**The Circuit 1 Trap:**
-
-Most people spend their entire careers fighting in Circuit 1. They compete for positions, authority, approval. They win individual battles through competence, charisma, or effort.
-
-**Problem:** Circuit 1 power is temporary and exhausting.
-
-You have to keep fighting. Every decision is a battle. Every win requires energy. The moment you lose your position or relationship, your power evaporates.
-
-**Circuit 1 players work the hardest and gain the least leverage.**
-
----
-
-### CIRCUIT 2: DISPOSITIONAL POWER
-*The Rules of the Game*
-
-**What it is:**
-
-The structures, rules, norms, and procedures that determine what kinds of power moves are possible. This is the level where the game itself is defined.
-
-Circuit 2 doesn't fight battles—it determines what battles can be fought and how they can be won.
-
-**Characteristics:**
-
-- Less visible than Circuit 1
-- Shapes what's "normal," "acceptable," "possible"
-- Creates recurring advantage (the rules keep favoring you)
-- More efficient (set the rules once, benefit repeatedly)
-- Institutional (embedded in systems and norms)
-
-**Examples:**
-
-- Performance review criteria (what gets rewarded?)
-- Promotion standards (what qualifies someone?)
-- Decision-making processes (who has to approve what?)
-- Organizational structure (who reports to whom?)
-- Budget allocation rules (who controls resources?)
-
-**The Circuit 2 Advantage:**
-
-Circuit 2 players don't compete in the game—they shape the game to favor their strengths.
-
-**Real-world example:**
-
-You're not the best coder on the team. But you get yourself on the committee that defines "senior engineer" criteria. You emphasize communication and mentorship (your strengths) and de-emphasize raw technical skill (your weakness).
-
-**Result:** The rules now favor you. You get promoted without being the best coder because you changed what "best" means.
-
-**Circuit 2 players work smarter, not harder.**
-
----
-
-### CIRCUIT 3: FACILITATIVE POWER
-*The Infrastructure*
-
-**What it is:**
-
-The deepest level. The technology, systems, platforms, and infrastructure that make certain actions possible or impossible. Circuit 3 doesn't set the rules—it determines what can exist.
-
-**This is the invisible layer most people never even think about.**
-
-**Characteristics:**
-
-- Nearly invisible to most people
-- Determines what's technically possible
-- Creates structural dependency (people need the infrastructure)
-- Extremely powerful (infrastructure shapes everything above it)
-- Hardest to build but most durable
-
-**Examples:**
-
-- The software platform everyone uses (controls data, workflow, visibility)
-- The communication tools (controls information flow)
-- The financial systems (controls who can spend what)
-- The knowledge base (controls what information exists and who can access it)
-- The physical infrastructure (office layout, security systems, etc.)
-
-**The Circuit 3 Dominance:**
-
-Circuit 3 players control the infrastructure. Whoever controls the infrastructure controls the game at a fundamental level.
-
-**Real-world example:**
-
-You're the IT person who implemented the company's project management system. You didn't write the rules, but you control:
-- What data is tracked
-- What reports leadership sees
-- Who has access to what information
-- What workflows are possible
-
-**Result:** Leadership makes decisions based on the infrastructure you control. You shape reality by controlling what's visible and possible.
-
-**Circuit 3 players don't fight—they define what fighting looks like.**
-
----
-
-## 🔗 HOW THE CIRCUITS INTERACT
-
-**The circuits are nested. Each level shapes the one above it.**
-
-```
-Circuit 3 (Infrastructure)
-    ↓ shapes what's possible
-Circuit 2 (Rules)
-    ↓ shapes what's acceptable
-Circuit 1 (Daily Battles)
-    ↓ who wins individual interactions
-```
-
-**Example: Promotion Decision**
-
-**Circuit 1 (Visible):**
-Alex and Maya both want the promotion. They compete. One wins.
-
-**Circuit 2 (Rules):**
-But Maya influenced the promotion criteria to favor her skills. The game is rigged before it starts.
-
-**Circuit 3 (Infrastructure):**
-But Jordan controls the performance tracking system. Jordan determines what metrics exist, what leadership sees. Jordan shapes what's even measurable.
-
-**Result:**
-
-Alex fights hard and might win based on visible performance.
-
-Maya fights smart by shaping the rules.
-
-Jordan doesn't fight—Jordan controls what performance means by controlling the infrastructure.
-
-**The person operating on the deepest circuit has the most power.**
-
----
-
-## 🎮 WHY MOST PEOPLE LOSE
-
-**Because they only see Circuit 1.**
-
-They see authority, battles, negotiations. They try to win through effort, competence, charisma.
-
-**Meanwhile:**
-
-- Circuit 2 players are changing the rules to favor themselves
-- Circuit 3 players are controlling the infrastructure that determines what's possible
-
-**Circuit 1 players are working 70-hour weeks fighting battles.**
-
-**Circuit 2 players are working 40-hour weeks winning by changing the rules.**
-
-**Circuit 3 players are working 30-hour weeks shaping reality itself.**
-
-**Same company. Completely different games.**
+Why do most people lose? Because they only see Circuit 1. They see authority, battles, negotiations. They try to win through effort, competence, charisma. **Meanwhile, Circuit 2 players are changing the rules to favor themselves, and Circuit 3 players are controlling the infrastructure that determines what's possible.** Circuit 1 players are working seventy-hour weeks fighting battles. Circuit 2 players are working forty-hour weeks winning by changing the rules. Circuit 3 players are working thirty-hour weeks shaping reality itself. **Same company. Completely different games.**
 
 ---
 
 ## 🌍 REAL-WORLD APPLICATION
 
-### In Your Career
+In your career, playing Circuit 1 only has you working hard, producing results, fighting for recognition. You're exhausted. You get promoted slowly. Adding Circuit 2 has you getting on committees, influencing performance standards, shaping decision-making processes, making the rules favor your strengths. You get promoted faster with less effort. Adding Circuit 3 has you controlling key systems, becoming the person leadership depends on for data, tools, infrastructure. You're irreplaceable. You have leverage without authority.
 
-**Circuit 1 Only:**
-You work hard, produce results, fight for recognition. You're exhausted. You get promoted slowly.
+In organizations, Circuit 1 only has you giving orders, dealing with people who comply or resist, fighting every battle. Adding Circuit 2 has you changing policies, processes, structures, making your preferred outcomes the default. Adding Circuit 3 has you controlling the systems everyone relies on, shaping what's visible, what's measurable, what's possible.
 
-**Add Circuit 2:**
-You get on committees. You influence performance standards. You shape decision-making processes. You make the rules favor your strengths. You get promoted faster with less effort.
-
-**Add Circuit 3:**
-You control key systems. You become the person leadership depends on for data, tools, infrastructure. You're irreplaceable. You have leverage without authority.
-
-### In Organizations
-
-**Circuit 1 Only:**
-You give orders. People comply or resist. You fight every battle.
-
-**Add Circuit 2:**
-You change policies, processes, structures. You make your preferred outcomes the default.
-
-**Add Circuit 3:**
-You control the systems everyone relies on. You shape what's visible, what's measurable, what's possible.
-
-### In Projects
-
-**Circuit 1 Only:**
-You persuade people to support your project. One meeting at a time.
-
-**Add Circuit 2:**
-You get your project type prioritized in the official roadmap. Now similar projects get automatic support.
-
-**Add Circuit 3:**
-You build the system that tracks all projects. You determine what metrics matter. Your project type becomes structurally advantaged.
+In projects, Circuit 1 only has you persuading people to support your project one meeting at a time. Adding Circuit 2 has you getting your project type prioritized in the official roadmap. Now similar projects get automatic support. Adding Circuit 3 has you building the system that tracks all projects. You determine what metrics matter. Your project type becomes structurally advantaged.
 
 ---
 
 ## 🛠️ IMPLEMENTATION BLUEPRINT
 
-### Step 1: Map Your Current Circuit Position
+Map your current circuit position. Ask yourself: where are you playing? Circuit 1 indicators include fighting for every win, having power that depends on relationships, working long hours to stay ahead, and losing power when you lose a position. Circuit 2 indicators include sitting on decision-making committees, influencing policies and standards, shaping what's rewarded, and having recurring advantage from rules you helped set. Circuit 3 indicators include controlling key systems or infrastructure, being depended on for tools or platforms, shaping what data exists and who sees it, and being structurally difficult to replace. **Most people are ninety-five percent Circuit 1, five percent Circuit 2, zero percent Circuit 3.**
 
-**Where are you playing?**
+Identify Circuit 2 opportunities. Ask: where can you shape the rules? Look for committees you can join, standards you can influence, processes you can redesign, criteria you can help define. **Target: get on at least one Circuit 2 position within three months.**
 
-**Circuit 1 Indicators:**
-- You fight for every win
-- Your power depends on relationships
-- You work long hours to stay ahead
-- Losing a position means losing power
+Build Circuit 3 assets. Ask: what infrastructure can you control? Examples include implementing a new tool or system, becoming the expert on a critical platform, building the knowledge base, controlling a key dataset, owning the reporting dashboard. **Target: control at least one piece of infrastructure within six months.**
 
-**Circuit 2 Indicators:**
-- You sit on decision-making committees
-- You influence policies and standards
-- You shape what's rewarded
-- You have recurring advantage from rules you helped set
-
-**Circuit 3 Indicators:**
-- You control key systems or infrastructure
-- People depend on your tools/platforms
-- You shape what data exists and who sees it
-- You're structurally difficult to replace
-
-**Most people are 95% Circuit 1, 5% Circuit 2, 0% Circuit 3.**
-
-### Step 2: Identify Circuit 2 Opportunities
-
-**Where can you shape the rules?**
-
-**Look for:**
-- Committees you can join
-- Standards you can influence
-- Processes you can redesign
-- Criteria you can help define
-
-**Target:** Get on at least one Circuit 2 position within 3 months.
-
-### Step 3: Build Circuit 3 Assets
-
-**What infrastructure can you control?**
-
-**Examples:**
-- Implement a new tool/system
-- Become the expert on a critical platform
-- Build the knowledge base
-- Control a key dataset
-- Own the reporting dashboard
-
-**Target:** Control at least one piece of infrastructure within 6 months.
-
-### Step 4: Play All Three Circuits Simultaneously
-
-**Don't abandon Circuit 1. Master all three.**
-
-**Circuit 1:** Deliver results, build relationships, win daily battles
-
-**Circuit 2:** Shape rules to favor you
-
-**Circuit 3:** Control infrastructure that others depend on
-
-**This makes you nearly untouchable.**
+Play all three circuits simultaneously. Don't abandon Circuit 1. Master all three. Circuit 1: deliver results, build relationships, win daily battles. Circuit 2: shape rules to favor you. Circuit 3: control infrastructure that others depend on. **This makes you nearly untouchable.**
 
 ---
 
@@ -340,17 +90,17 @@ You build the system that tracks all projects. You determine what metrics matter
 
 1. **Most people only see Circuit 1 (daily battles). Apex players master all three circuits.**
 
-2. **Circuit 1 is exhausting. You fight for every win. Power is temporary and relationship-dependent.**
+2. **Circuit 1 is exhausting.** You fight for every win. Power is temporary and relationship-dependent.
 
-3. **Circuit 2 is efficient. You change the rules once and benefit repeatedly.**
+3. **Circuit 2 is efficient.** You change the rules once and benefit repeatedly.
 
-4. **Circuit 3 is dominant. You control infrastructure, you shape what's possible.**
+4. **Circuit 3 is dominant.** You control infrastructure, you shape what's possible.
 
-5. **The circuits are nested. Each level shapes the one above it. Deeper circuits = more power.**
+5. **The circuits are nested.** Each level shapes the one above it. Deeper circuits equal more power.
 
-6. **Technical excellence isn't enough. If you're only good at Circuit 1, you'll be outplayed by people operating on Circuits 2 and 3.**
+6. **Technical excellence isn't enough.** If you're only good at Circuit 1, you'll be outplayed by people operating on Circuits 2 and 3.
 
-7. **Get on committees (Circuit 2) and control systems (Circuit 3) to build leverage beyond your formal authority.**
+7. **Get on committees (Circuit 2) and control systems (Circuit 3)** to build leverage beyond your formal authority.
 
 ---
 
@@ -358,9 +108,7 @@ You build the system that tracks all projects. You determine what metrics matter
 
 You now understand the three circuits. You see that power operates on multiple levels, and most people are only playing on one.
 
-But there's a specific concept within this framework that's even more tactical:
-
-**Obligatory Passage Points.**
+But there's a specific concept within this framework that's even more tactical: **Obligatory Passage Points.**
 
 These are the choke points in any system—the places where resources, information, or decisions must flow through.
 
